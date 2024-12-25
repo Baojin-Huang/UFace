@@ -72,3 +72,20 @@ Modified the `DATA_ROOT`and`INDEX_ROOT`in `./tasks/distfc/train_confing.yaml`, `
 bash local_train.sh
 ```
 
+## Citation
+
+If you find UFace useful in your research, please consider to cite the following paper:
+
+```
+@article{huang2024unlabeled,
+  title={Unlabeled data assistant: improving mask robustness for face recognition},
+  author={Huang, Baojin and Wang, Zhongyuan and Yang, Jifan and Han, Zhen and Liang, Chao},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={19},
+  number={},
+  pages={3109--3123},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
